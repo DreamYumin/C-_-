@@ -134,6 +134,7 @@
     <ClCompile Include="08打印100~200的质数.c" />
     <ClCompile Include="09输入电文字母都退5位密码.c" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="test2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

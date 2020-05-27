@@ -2,11 +2,11 @@
 #include<math.h>
 
 void print() {
-	printf("*********\n");
+	printf("*年后********\n");
 }
 
-int main()
-{	
+int main0()
+{
 	print();
 
 	getchar();

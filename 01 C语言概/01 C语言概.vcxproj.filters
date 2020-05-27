@@ -45,5 +45,8 @@
     <ClCompile Include="09输入电文字母都退5位密码.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -133,6 +133,7 @@
     <ClCompile Include="07斐波那契数列.c" />
     <ClCompile Include="08打印100~200的质数.c" />
     <ClCompile Include="09输入电文字母都退5位密码.c" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
